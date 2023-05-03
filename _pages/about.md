@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='#'> Ph.D. student in Computer Science at Iowa State University
 
 profile:
-  align: right
+  align: center
   image: 1600972359214.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>116 A Atanasoff Hall</p>
     <p>2434 Osborn Dr.</p>
