@@ -9,8 +9,8 @@ profile:
   image: 1600972359214.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Atanasoff Hallr</p>
-    <p>123 your address street</p>
+    <p>116 A Atanasoff Hall</p>
+    <p>2434 Osborn Dr.</p>
     <p>Ames, Iowa 50011</p>
 
 news: true  # includes a list of news items
