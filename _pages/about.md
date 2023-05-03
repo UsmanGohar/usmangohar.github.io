@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a Ph.D. student in [Department of Computer Science](https://www.cs.iastate.edu/) at [Iowa State University (ISU)](https://www.iastate.edu/). I received my M.Sc in Computer Science from the [University of Minneosta](https://www.d.umn.edu/) and my B.Eng. degree from National University of Sciences and Technology (NUST). My research interests are broadly at the intersection of software engineering and machine learning, with a particular focus on Fairness in AI, social computing, and AI for social good. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
