@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I super excited to announce I will be volunteering for FAccT'21 (South Korea - Virtual).
+I will be volunteering for FAccT'21 (South Korea - Virtual).
