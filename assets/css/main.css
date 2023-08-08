@@ -197,8 +197,8 @@ blockquote {
   width: 100%;
 }
 .profile .address {
-  margin-bottom: 5px;
-  margin-top: 5px;
+  margin-bottom: 1px;
+  margin-top: 1px;
   font-family: monospace;
 }
 .profile .address p {
