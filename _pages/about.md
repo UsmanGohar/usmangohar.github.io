@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'> Ph.D. student in Computer Science at Iowa State University
+subtitle: Ph.D. student | Computer Science @ Iowa State University
 
 profile:
   align: center
