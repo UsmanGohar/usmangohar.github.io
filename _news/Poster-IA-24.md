@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting a poster of our work at Imagine Aviation 2024!
+Presenting a poster of our work at [Imagin Aviation](https://nari.arc.nasa.gov/imaginAviation/) 2024!
