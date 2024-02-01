@@ -9,15 +9,15 @@ nav_order: 3
 
 ### Conference Program Committee (PC)
 
-* Item IJCAI'24 - Survey Track
-* Item AAAI'24
+* IJCAI'24 - Survey Track
+* AAAI'24
 
 ### Conference Reviewer
 
-* Item CHI'24
+* CHI'24
 * NeurIPS'23 - Ethics Reviewer
 * AAAI Workshop - Responsible Language Models 2024 (ReLM)
 
 ### Journal Reviewer
 
-* Item ACM Transactions on Knowledge Discovery from Data (TKDD) 2023
+* ACM Transactions on Knowledge Discovery from Data (TKDD) 2023
