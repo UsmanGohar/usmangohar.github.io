@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: Talks
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: Talks
+nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
