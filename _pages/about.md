@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. student | Computer Science @ Iowa State University
+subtitle:
 
 profile:
   align: center
