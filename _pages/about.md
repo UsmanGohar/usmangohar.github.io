@@ -6,7 +6,7 @@ subtitle: Ph.D. student | Computer Science @ Iowa State University
 
 profile:
   align: center
-  image: 1600972359214.png
+  image: IMG_7913.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p align="center">116 A Atanasoff Hall</p>
