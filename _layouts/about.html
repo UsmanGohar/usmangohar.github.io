@@ -6,7 +6,6 @@ layout: default
       <div class="post">
         <article>
           {% if page.profile -%}
-          <h1>This is a heading</h1>
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
@@ -31,6 +30,7 @@ layout: default
           {%- endif %}
 
           <div class="clearfix">
+            <h1><b>Usman Gohar</b>b></h1>
             {{ content }}
           </div>
 
