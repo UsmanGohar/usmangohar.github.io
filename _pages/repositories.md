@@ -17,6 +17,7 @@ nav_order: 3
 * CHI'24
 * NeurIPS'23 - Ethics Reviewer
 * AAAI Workshop - Responsible Language Models 2024 (ReLM)
+* CSCW'24
 
 ### Journal Reviewer
 
