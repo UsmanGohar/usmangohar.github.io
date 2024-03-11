@@ -4,4 +4,4 @@ inline: true
 related_posts: false
 ---
 
-Invited as an external reviewer for CHI & CSCW 2024!
+Invited as a reviewer for CHI & CSCW 2024!
