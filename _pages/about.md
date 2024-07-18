@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Ph.D. student in [Department of Computer Science](https://www.cs.iastate.edu/) at [Iowa State University (ISU)](https://www.iastate.edu/). I received my M.Sc in Computer Science from the [University of Minnesota](https://www.d.umn.edu/) and my B.Eng. degree from the National University of Sciences and Technology (NUST). My research interests are broadly at the intersection of software engineering and machine learning, with a particular focus on Fairness in AI and LLMs, social computing, and AI for social good. 
+Hi! I am a Ph.D. student in [Department of Computer Science](https://www.cs.iastate.edu/) at [Iowa State University (ISU)](https://www.iastate.edu/). I received my M.Sc in Computer Science from the [University of Minnesota](https://www.d.umn.edu/) and my B.Eng. degree from the National University of Sciences and Technology (NUST). My research interests are broadly at the intersection of software engineering and machine learning, with a particular focus on Fairness in AI, Software and AI Safety, and AI for social good. 
 
-My industrial experience includes working as a Data Scientist in fields ranging from agriculture, manufacturing, and power systems with specific experience in forecasting, predictive analytics, and model deployment.
+Previously, I have worked as a Data Scientist in fields ranging from agriculture, manufacturing, and power systems with specific experience in forecasting, predictive analytics, and model deployment.
 
