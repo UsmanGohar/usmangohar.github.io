@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to be on the Program Committee for Artifact Evaluation for ISSTA 2024!
+Invited to be on the Committee for Artifact Evaluation for ISSTA 2024!
