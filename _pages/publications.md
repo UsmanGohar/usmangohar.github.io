@@ -1,8 +1,11 @@
 ---
+layout: page
+permalink: //..//https://scholar.google.com/citations?user=oWJY3CEAAAAJ&hl
 permalink: /publications/
+title: Publications
+years: [2024, 2023, 2022, 2019]
 nav: true
-layout: forward
-target: https://scholar.google.com/citations?user=oWJY3CEAAAAJ&hl
+nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
