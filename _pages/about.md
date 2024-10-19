@@ -19,7 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Ph.D. student in [Department of Computer Science](https://www.cs.iastate.edu/) at [Iowa State University (ISU)](https://www.iastate.edu/). I received my M.Sc in Computer Science from the [University of Minnesota](https://www.d.umn.edu/) and my B.Eng. degree from the National University of Sciences and Technology (NUST). My research interests are broadly at the intersection of software engineering and machine learning, with a particular focus on Fairness in AI, Software and AI Safety, and AI for social good. 
+Usman Gohar is a PhD student and F. Wendell Scholar at the Department of Computer Science at Iowa State University, researching at the intersection of machine learning and software engineering, with an emphasis on operationalizing software and AI safety, algorithmic fairness, and harm mitigation. He has published and peer-reviewed several research papers in top SE, ML, and AI Ethics venues and organized academic workshops. Usman also works on developing systematic methods for identifying and evaluating safety (including bias and harm) in data-driven software (ML/AI).
 
-Previously, I have worked as a Data Scientist in fields ranging from agriculture, manufacturing, and power systems with specific experience in forecasting, predictive analytics, and model deployment.
+Usman is advised by Dr. [Robyn Lutz](https://robynlutz.com/) and is a member of the [Laboratory for Software Safety](https://softwaresafety.cs.iastate.edu/)
 
+Previously, he has worked as a Data Scientist in different sectors like agriculture, manufacturing, and power systems, specializing in forecasting, predictive analytics, and model deployment.
