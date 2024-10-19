@@ -1,9 +1,4 @@
 ---
-layout: page
-permalink: /publications/
-title: Publications
-years: [2024, 2023, 2022, 2019]
-nav: true
 layout: forward
 target: https://scholar.google.com/citations?user=oWJY3CEAAAAJ&hl
 nav_order: 1
