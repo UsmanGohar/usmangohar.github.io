@@ -9,5 +9,5 @@ children:
       permalink: [/publications/](https://scholar.google.com/citations?user=oWJY3CEAAAAJ&hl)
     - title: divider
     - title: projects
-      permalink: /projects/
+      permalink: [/projects/](https://scholar.google.com/citations?user=oWJY3CEAAAAJ&hl)
 ---
