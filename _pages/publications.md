@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: [publications](https://scholar.google.com/citations?user=oWJY3CEAAAAJ&hl)
+permalink: ..//https://scholar.google.com/citations?user=oWJY3CEAAAAJ&hl
 title: Publications
 years: [2024, 2023, 2022, 2019]
 nav: true
