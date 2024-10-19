@@ -1,4 +1,5 @@
 ---
+nav: true
 layout: forward
 target: https://scholar.google.com/citations?user=oWJY3CEAAAAJ&hl
 nav_order: 1
