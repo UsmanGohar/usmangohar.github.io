@@ -26,3 +26,5 @@ Usman Gohar is a PhD student and F. Wendell Scholar in [Computer Science at Iowa
 Usman is advised by Dr. [Robyn Lutz](https://robynlutz.com/) and is a member of the [Laboratory for Software Safety](https://softwaresafety.cs.iastate.edu/).
 
 Previously, he has worked as a Data Scientist in different sectors like agriculture, manufacturing, and power systems, specializing in forecasting, predictive analytics, and model deployment.
+
+[View my CV here](assets/pdf/Usman Gohar CV.pdf)
