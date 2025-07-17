@@ -13,8 +13,7 @@ profile:
     <p align="center">2434 Osborn Dr.</p>
     <p align="center">Ames, Iowa</p> -->
 
-announcements:
-  enabled: true # includes a list of news items
+news: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 latest_posts: false  # includes a list of the newest posts
