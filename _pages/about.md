@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: headshot-new.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <!-- <p> align="center">116 A Atanasoff Hall</p>
     <p align="center">2434 Osborn Dr.</p>
