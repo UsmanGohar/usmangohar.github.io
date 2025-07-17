@@ -14,8 +14,8 @@ profile:
     <p align="center">Ames, Iowa</p> -->
 
 news: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+limit: 5 # leave blank to include all the news in the `_news` folder
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
