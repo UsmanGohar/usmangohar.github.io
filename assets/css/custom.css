@@ -15,3 +15,9 @@ img[src*="profile"] {
 .navbar-nav {
   justify-content: center;
 }
+
+.desc {
+  color: #a31f34; /* Or any hex/rgb value you want */
+  font-size: 1.2em; /* Optional: adjust as you like */
+  font-weight: 500; /* Optional for stronger text */
+}
