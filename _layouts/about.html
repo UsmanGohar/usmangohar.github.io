@@ -38,9 +38,7 @@ layout: default
       <div class="contact-icons">
         {% include social.html %}
       </div>
-      <div class="contact-note">
-        {{ site.contact_note }}
-      </div>
+
           
     </div>
   {% endif %}
@@ -69,6 +67,10 @@ layout: default
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
+
+          <div class="contact-note" style="text-align: center; font-size: small;">
+              You can reach out to me via email. Feel free to connect with me on socials
+          </div>
 
 
         </article>
