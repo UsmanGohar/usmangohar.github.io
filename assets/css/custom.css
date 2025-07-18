@@ -38,7 +38,7 @@ th[scope="row"] {
 }
 
 .navbar {
-  margin-top: 8px !important;   /* Reduce/remove space above the navbar */
+  margin-top: 0px !important;   /* Reduce/remove space above the navbar */
 }
 
 .container {
