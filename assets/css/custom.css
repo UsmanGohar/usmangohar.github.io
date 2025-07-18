@@ -28,5 +28,5 @@ img[src*="profile"] {
 }
 
 .container {
-  margin-top: 16px !important; /* Or your desired value */
+  margin-top: 12px !important; /* Or your desired value */
 }
