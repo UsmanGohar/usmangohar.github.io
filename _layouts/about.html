@@ -31,15 +31,14 @@ layout: default
             <div class="address">
               {{ page.profile.address }}
             </div>
-            {%- endif %}
 
-  {% if page.social %}
-    <div class="social">
+            {% if page.social %}
+          <div class="social">
       <div class="contact-icons" style="text-align: center; font-size: 18px; letter-spacing: 3px;>
         {% include social.html %}
       </div>
-
-          
+            {%- endif %}
+                
     </div>
   {% endif %}
           </div>
