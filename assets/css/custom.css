@@ -11,3 +11,7 @@ img[src*="profile"] {
   display: block;
   margin: 0 auto;
 }
+
+.navbar-nav {
+  justify-content: center;
+}
