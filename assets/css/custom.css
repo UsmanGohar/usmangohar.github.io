@@ -27,7 +27,7 @@ img[src*="profile"] {
 }
 
 th[scope="row"] {
-  font-size: 1.15em;  /* or try 1.2em or 1.1rem */
+  font-size: 0.9em;  /* or try 1.2em or 1.1rem */
 }
 
 .news-title {
