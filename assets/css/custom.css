@@ -26,3 +26,7 @@ img[src*="profile"] {
   margin-top: 0;         /* Remove/add space above subtitle */
 
 }
+
+.container {
+  margin-top: 8px !important; /* Or your desired value */
+}
