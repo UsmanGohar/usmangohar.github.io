@@ -25,8 +25,8 @@ December 2023
 - **TruX Open Online Seminars - University of Luxembourg**  
 November 2023  
 [Webpage](https://trustworthy-software.github.io/TOOS/)  
-- **Data Tech Minneapolis**  
+- **Data Tech Minneapolis**    
 June 2023
-[Webpage](https://minneanalytics.org/datatech-2023/)   
+[Webpage](https://minneanalytics.org/datatech-2023/)     
 - **Data Science Minneapolis**  
  
