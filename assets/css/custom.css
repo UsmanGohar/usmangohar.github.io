@@ -16,7 +16,7 @@ img[src*="profile"] {
   justify-content: center;
 }
 .post-header .post-title {
-  margin-bottom: 0.2em !important;
+  margin-bottom: 0.1em !important;
 }
 
 .desc {
