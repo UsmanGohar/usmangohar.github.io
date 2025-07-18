@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: CS Ph.D. Candidate @ Iowa State University
 
 profile:
   align: right
