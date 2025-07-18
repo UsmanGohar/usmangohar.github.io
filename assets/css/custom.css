@@ -37,6 +37,10 @@ th[scope="row"] {
   margin-bottom: 0.5em; /* optional: adjust as needed */
 }
 
+.navbar {
+  margin-top: 8px !important;   /* Reduce/remove space above the navbar */
+}
+
 .container {
   margin-top: 14px !important; /* Or your desired value */
 }
