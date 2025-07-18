@@ -154,6 +154,13 @@ table.table a:hover:after :not(.nav-item.dropdown) {
   width: 100%;
 }
 
+.navbar a,
+.navbar .nav-link,
+.btn,
+.btn a {
+  text-decoration: none !important;
+}
+
 figure,
 img {
   max-width: 90vw;
