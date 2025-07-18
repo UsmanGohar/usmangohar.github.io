@@ -41,6 +41,6 @@ th[scope="row"] {
   margin-top: 0px !important;   /* Reduce/remove space above the navbar */
 }
 
-.container {
+.name-container {
   margin-top: 14px !important; /* Or your desired value */
 }
