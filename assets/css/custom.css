@@ -24,7 +24,10 @@ img[src*="profile"] {
   font-size: 1em; /* Optional: adjust as you like */
   font-weight: 500; /* Optional for stronger text */
   margin-top: 0;         /* Remove/add space above subtitle */
+}
 
+th[scope="row"] {
+  font-size: 1.15em;  /* or try 1.2em or 1.1rem */
 }
 
 .news-title {
