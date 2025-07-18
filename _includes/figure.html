@@ -28,16 +28,14 @@
       {% if include.zoomable %}data-zoomable{% endif %}
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     />
-
-                      
-        {% if page.social %}
-          <div class="social">
-      <div class="contact-icons" style="text-align: center; font-size: 18px; letter-spacing: 3px;>
-        {% include social.html %}
-      </div>
-            {%- endif %}
-
+                    
   </picture>
+
+    {%- if include.show_social and page.social %}
+    <div class="contact-icons" style="text-align:center; font-size: 18px; letter-spacing: 3px;">
+      {% include social.html %}
+    </div>
+  {%- endif %}
 
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
 
