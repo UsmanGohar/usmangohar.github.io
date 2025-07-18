@@ -28,9 +28,9 @@ img[src*="profile"] {
 }
 
 .news-title {
-  font-size: 1.15rem;
+  font-size: 1.5rem;
   font-weight: bold;
-  margin-top: 2em;    /* optional: adjust as needed */
+  margin-top: 0.5em;    /* optional: adjust as needed */
   margin-bottom: 1em; /* optional: adjust as needed */
 }
 
