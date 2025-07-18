@@ -33,7 +33,7 @@ layout: default
               {{ page.profile.address }}
             </div>
 
-             <!-- Social -->
+              <!-- Social -->
               {%- if page.social %}
               <div class="social">
                 <div class="contact-icons" style="font-size:18px; letter-spacing: 3px;">
@@ -43,8 +43,11 @@ layout: default
                 <div class="contact-note">
                   {{ site.contact_note }}
                 </div>
-
                 
+              </div>
+            {%- endif %}
+
+  {%- endif %}
     </div>
   {% endif %}
           </div>
