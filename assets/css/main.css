@@ -89,8 +89,15 @@ body.sticky-bottom-footer {
   max-width: 1100px;
 }
 
-.profile img {
+.profile figure {
   width: 75%;
+  margin: 0 auto;
+  display: block;
+}
+.profile img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 /******************************************************************************
