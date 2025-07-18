@@ -142,6 +142,7 @@ table th {
 a,
 table.table a {
   color: var(--global-theme-color);
+  text-decoration: underline;
 }
 a:hover,
 table.table a:hover {
