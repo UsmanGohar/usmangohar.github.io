@@ -27,6 +27,13 @@ img[src*="profile"] {
 
 }
 
+.news-title {
+  font-size: 1.15rem;
+  font-weight: bold;
+  margin-top: 2em;    /* optional: adjust as needed */
+  margin-bottom: 1em; /* optional: adjust as needed */
+}
+
 .container {
   margin-top: 14px !important; /* Or your desired value */
 }
