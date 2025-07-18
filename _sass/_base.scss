@@ -51,6 +51,13 @@ table.table a {
   }
 }
 
+.navbar a,
+.navbar .nav-link,
+.btn,
+.btn a {
+  text-decoration: none !important;
+}
+
 figure,
 img {
   max-width: 90vw;
