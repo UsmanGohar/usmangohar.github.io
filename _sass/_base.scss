@@ -39,12 +39,13 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  text-decoration: underline; // <-- Add this line!
 
   &:hover {
     color: var(--global-theme-color);
-    text-decoration: underline;
+    text-decoration: underline; // Keeps underline on hover
   }
-
+  
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
