@@ -15,8 +15,8 @@ img[src*="profile"] {
 .navbar-nav {
   justify-content: center;
 }
-.post-title {
-  margin-bottom: 0.2em;  /* Reduce space under title; adjust as needed */
+.post-header .post-title {
+  margin-bottom: 0.2em !important;
 }
 
 .desc {
