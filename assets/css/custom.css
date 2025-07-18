@@ -15,9 +15,14 @@ img[src*="profile"] {
 .navbar-nav {
   justify-content: center;
 }
+.post-title {
+  margin-bottom: 0.2em;  /* Reduce space under title; adjust as needed */
+}
 
 .desc {
   color: #a31f34; /* Or any hex/rgb value you want */
-  font-size: 1.2em; /* Optional: adjust as you like */
+  font-size: 1em; /* Optional: adjust as you like */
   font-weight: 500; /* Optional for stronger text */
+  margin-top: 0;         /* Remove/add space above subtitle */
+
 }
