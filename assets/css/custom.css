@@ -31,7 +31,7 @@ img[src*="profile"] {
   font-size: 1.5rem;
   font-weight: bold;
   margin-top: 0.5em;    /* optional: adjust as needed */
-  margin-bottom: 1em; /* optional: adjust as needed */
+  margin-bottom: 0.5em; /* optional: adjust as needed */
 }
 
 .container {
