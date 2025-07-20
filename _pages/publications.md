@@ -3,7 +3,7 @@ layout: page
 permalink: //..//https://scholar.google.com/citations?user=oWJY3CEAAAAJ&hl
 permalink: /publications/
 title: Publications
-years: [2025, 2024, 2023, 2022, 2019]
+years: [2025, 2024, 2023]
 nav: true
 nav_order: 1
 ---
