@@ -9,15 +9,16 @@ nav_order: 3
 
 ### Conference Program Committee (PC)
 
-* AAAI' 26
+* AAAI'26
+* AIES’25
 * AAAI'25
 * IJCAI'25
 * IJCAI'25 HAI Track
 * DataSafe Workshop @ AAAI'25
 * Workshop on Trustworthy NLP @ NAACL'25
-* AAAI/ACM AIES'24
+* AIES'24
 * AAAI'24
-* IJCAI'24
+* IJCAI'24 - Survey Track
 * Workshop on Trustworthy NLP @ NAACL'24
 
 ### Conference Reviewer
@@ -41,7 +42,7 @@ nav_order: 3
 
 ### Organizer / Chair
 
-* EvalEval @ NeurIPS'24 – Organizer/Chair
+* EvalEval @ NeurIPS'24 - [Website](https://evalevalai.com/2024workshop/)
 
 ### Volunteer
 
