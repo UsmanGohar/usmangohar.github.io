@@ -9,26 +9,42 @@ nav_order: 3
 
 ### Conference Program Committee (PC)
 
-* IJCAI'24 - Survey Track
+* AAAI' 26
+* AAAI'25
+* IJCAI'25
+* IJCAI'25 HAI Track
+* DataSafe Workshop @ AAAI'25
+* Workshop on Trustworthy NLP @ NAACL'25
+* AAAI/ACM AIES'24
 * AAAI'24
+* IJCAI'24
+* Workshop on Trustworthy NLP @ NAACL'24
 
 ### Conference Reviewer
 
-* CHI'24
-* NeurIPS'23 - Ethics Reviewer
-* AAAI Workshop - Responsible Language Models 2024 (ReLM)
-* CSCW'24
-* ISSTA'24
+* NeurIPS - Ethics Reviewer
+* COLM'25 – Ethics Reviewer
+* Workshop on GenAI Watermarking @ ICLR'25 – External Reviewer
+* ICSE'25 – Shadow PC
+* ACL-ARR'25 – External Reviewer
+* ICML'24 – Ethics Reviewer
+* COLM'24 – Ethics Reviewer
+* CHI'24 – External Reviewer
+* NeurIPS'24 – Ethics Reviewer
+* Workshop on Responsible Language Models (ReLM) @ AAAI'24 – External Reviewer
+* Student Research Workshop @ NAACL'24 – External Reviewer
+* NeurIPS'23 – Ethics Reviewer
 
 ### Journal Reviewer
 
-* ACM Transactions on Knowledge Discovery from Data (TKDD) 2023
+* ACM Transactions on Knowledge Discovery from Data (TKDD) 2023 – External Reviewer
+
+### Organizer / Chair
+
+* EvalEval @ NeurIPS'24 – Organizer/Chair
 
 ### Volunteer
 
-* Volunteer Co-Chair FAccT 2024
-* FAccT 2023
-* EAAMO 2023
-* FAccT 2022
-* OOPSLA 2021
-* KDD 2020
+* FAccT'24 - Volunteer Co-Chair
+* FAccT'23 - Volunteer
+
