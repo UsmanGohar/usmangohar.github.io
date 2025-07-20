@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-#### Software Development Practices (COMS 309)   
+### Software Development Practices (COMS 309)   
 *Computer Science, Iowa State University | Fall 2020 - Spring 2022*
 
 **Head Teaching Assistant** for three semesters in one of the largest and most diverse Computer Science courses (250+ students per term). Led a team of 6 TAs, managing course logistics, coordinating grading and labs, and mentoring TAs to deliver an engaging learning experience. Worked closely with faculty as a stand-in instructor, facilitating lectures and developing course material.
