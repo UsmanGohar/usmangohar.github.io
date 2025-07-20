@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 
-- **"AI Safety and Fairness in Drones" at the Federal Aviation Administration**  
+- **"AI Safety and Fairness in Drones" at the Federal Aviation Administration (FAA)**  
 April 2025  
 - **"How Good are AI-Language Models in Global Languages?" at London Data Week**  
 July 2024  
