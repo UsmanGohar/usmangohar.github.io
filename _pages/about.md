@@ -6,7 +6,7 @@ subtitle: CS Ph.D. Candidate @ Iowa State University
 
 profile:
   align: right
-  image: headshot-new.jpg
+  image: thumbnail_IMG_1621.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <!-- <p> align="center">116 A Atanasoff Hall</p>
