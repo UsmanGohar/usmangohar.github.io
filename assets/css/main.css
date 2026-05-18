@@ -908,7 +908,6 @@ d-article d-byline a:hover {
 
 d-article {
   border-top-color: var(--global-divider-color) !important;
-  /* Citations */
 }
 d-article p,
 d-article h1,
@@ -1018,6 +1017,9 @@ d-article d-footnote {
 }
 d-article d-footnote:hover {
   color: var(--global-hover-color) !important; /* Footnote hover color */
+}
+d-article {
+  /* Citations */
 }
 d-article d-cite a,
 d-article a.citation {
