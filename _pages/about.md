@@ -27,7 +27,7 @@ Hi! I am Usman! I am a final-year **PhD candidate and F. Wendell Scholar** in [C
 
 Beyond academic research, I am also very interested in AI Safety Policy and Governance. I served as the Section Lead for *"AI-generated content and criminal activity"* for the 2026 International AI Safety Report, a global initiative chaired by Turing Award winner [Yoshua Bengio](https://yoshuabengio.org/). Led by the [UK AISI](https://www.aisi.gov.uk/), the report brings together over 100 leading experts, 36+ governments, and organizations to assess the frontier risks posed by advanced AI systems. 
 
-I am also one of the founding members and chairs at the **[Evaluating Evaluations Coalition]**(https://evalevalai.com/) (EvalEval), an initiative that brings together researchers and practitioners to examine the reliability, validity, and governance of AI evaluation methodologies and benchmarks.
+I am also one of the founding members and chairs at the **[Evaluating Evaluations Coalition](https://evalevalai.com/)** (EvalEval), an initiative that brings together researchers and practitioners to examine the reliability, validity, and governance of AI evaluation methodologies and benchmarks.
  
 My research has focused on creating robust, practical approaches to operationalize AI and software safety within complex, data-driven systems, including advancing fairness, mitigating harms from machine learning and AI, and improving safety assurance for autonomous systems (e.g., drones) and AI systems. I’ve published peer-reviewed research in leading venues in software engineering, machine learning, and AI ethics.
 
